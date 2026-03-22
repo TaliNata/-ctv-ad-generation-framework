@@ -1,0 +1,111 @@
+# Creative Brief — The Ordinary
+
+**Product:** Ascorbyl Glucoside Solution 12%
+**Campaign:** Clinical Results, Honest Price — Spring 2026
+**Format:** CTV 30s · AI Production Pipeline · v1.0
+
+---
+
+## 01 Client & Project Overview
+
+| Field | Value |
+|-------|-------|
+| Client / Brand | The Ordinary |
+| Product / Service | Ascorbyl Glucoside Solution 12% — Vitamin C serum, DTC e-Commerce skincare |
+| Business Type | Physical Product · e-Commerce (D2C) |
+| Project / Campaign | Clinical Results, Honest Price — Spring 2026 |
+| Date | March 2026 |
+| Version | v1.0 |
+
+> **Dual-category note:** Business Type declares both Physical Product (CAT-1) and e-Commerce (CAT-5). Primary Objective is DTC purchase via QR scan → **CAT-5 is the lead category.** CAT-1 contributes S2/S3 product intimacy. See `gemini_output.json` for category resolution field.
+
+---
+
+## 02 Format & Technical Specs
+
+| Field | Value |
+|-------|-------|
+| Format | 30-Second Video |
+| Aspect Ratio | 16:9 |
+| Resolution | 4K (3840 × 2160) — optimized for CTV |
+| Platform / Channel | CTV / OTT — Hulu, Peacock, Amazon Freevee |
+
+---
+
+## 03 Objective
+
+| Field | Value |
+|-------|-------|
+| Primary Objective | Drive DTC purchases via QR scan from CTV. Primary KPI: scan-to-purchase conversion rate. |
+| Secondary Objective | Build brand awareness in clean beauty segment. Grow email list via post-scan landing page opt-in. |
+| KPIs | QR Scan Rate 2.5%+ · ROAS 4.5× · Video Completion Rate 75%+ · Brand Lift +10pts awareness |
+
+---
+
+## 04 Target Audience
+
+| Field | Value |
+|-------|-------|
+| Target Demographic | Skincare-aware adults 22–45, urban, HHI $50K+, ingredient-literate, value-conscious |
+| Psychographics | Ingredient-obsessed, anti-marketing, anti-markup. Reads INCI lists. Trusts science over packaging. Suspicious of luxury skincare pricing. |
+| Pain Points / Motivations | Wants clinical-grade Vitamin C without luxury price. Frustrated by unstable formulas that oxidise before results appear. Values transparency on ingredient percentages. |
+| Audience Insights | Follows skincare science accounts. Cross-references ingredients on INCI Decoder. Influenced by dermatologists and science communicators, not influencers. Responds to percentages, not promises. |
+| Viewer Mindset / Context | Evening wind-down on sofa, CTV lean-back mode. Phone nearby — high intent window for QR conversion. |
+
+---
+
+## 05 Strategy & Positioning
+
+| Field | Value |
+|-------|-------|
+| Key Message | Ascorbyl Glucoside Solution 12%. Stable, water-soluble Vitamin C derivative. No fragrance. No unnecessary ingredients. Honest price. |
+| Competitive Differentiator | Clinical concentration at a fraction of luxury brand pricing. Ascorbyl Glucoside is more stable and less irritating than L-Ascorbic Acid. INCI-transparent. No proprietary blends, no hidden markup. |
+| Brand Voice | **DO:** clinical, honest, ingredient-specific, no-nonsense, direct. **DON'T:** aspirational language, vague glow claims, luxury signalling, celebrity talent, emotional manipulation. |
+| Brand Guardrails | Logo top-left end card. Brand color: black `#000000`, white background. Show real skin — no retouching, no filters. Legal: results disclaimer required for any efficacy claim. |
+
+---
+
+## 06 Tone & Creative Direction
+
+| Field | Value |
+|-------|-------|
+| Tone / Vibe | Clinical, honest, minimal. The Ordinary's brand voice is anti-hype — let the ingredient data speak. No warmth performance, just clarity. |
+| Visual References | Macro liquid texture, dropper bottle with clear amber formula, clean white surfaces, clinical lighting. Ref: The Ordinary's own product photography — stark, honest, ingredient-forward. No warmth filters, no lifestyle set dressing. |
+| Talent / Casting | Diverse adults 22–40, all skin tones and types. Real skin texture — visible pores, natural variation. No makeup, no filters. Must look like the actual customer, not a skincare model. |
+| Music & Sound | 50–65 BPM, minimal ambient, single piano motif, no strings, no percussion. Clinical and precise. Reference: Nils Frahm Spaces — silence is part of the composition. |
+| Pacing | Extremely slow and deliberate. Macro textures held 4s+. S3: full 8-second static hold on bottle. No cuts that feel rushed. Silence and stillness are intentional brand signals. |
+| Supers / Text on Screen | S3 at 0:15: `Ascorbyl Glucoside 12%` — black Arial Bold 48pt on white, hold 4s. End Card: `Scan to shop` + `theordinary.com/ctv` + QR + code `SPRING20`. |
+
+---
+
+## 07 Call to Action
+
+| Field | Value |
+|-------|-------|
+| CTA Message | Scan to shop. No markup. Just science. |
+| QR Code Destination | `theordinary.com/ctv` — `utm_source=ctv&utm_medium=qr&utm_campaign=spring26` |
+| Post-Scan Experience | Product page for Ascorbyl Glucoside Solution 12%. Promo code `SPRING20` pre-applied. Ingredient breakdown and clinical study data visible above fold. |
+
+---
+
+## 08 Technical & Compliance
+
+| Field | Value |
+|-------|-------|
+| Deliverables | 30s CTV master (4K 16:9) · 15s cutdown · 9:16 vertical (Reels/TikTok) · Silent version with CEA-608 captions |
+| Accessibility | CEA-608 closed captions on CTV master. Min super font 28pt at 4K. Audio description for 9:16 version. |
+| Legal / Compliance | Results disclaimer required for any efficacy claim. No medical claims. FTC compliance. Fragrance-free and vegan claims substantiated by brand documentation. |
+
+---
+
+## 09 Process & Timeline
+
+| Field | Value |
+|-------|-------|
+| Budget / Production Tier | AI production pipeline — no live shoot. Estimated AI generation budget: $600–$900 including all iteration rounds. |
+| Timeline & Milestones | Day 1: Brief + Gemini prompt generation + NB Pro reference frames · Days 2–3: Veo 3 scene generation · Day 3: Audio (Google Lyria + Google Chirp) · Day 4: Assembly + end card · Days 5–6: Review + revisions · Day 7: Final delivery |
+| Approvals & Stakeholders | Brand Lead (The Ordinary): final creative approval · Legal: ingredient claims sign-off · Digital: QR URL and promo code approval before production begins |
+
+---
+
+*The Ordinary — Clinical Results, Honest Price Spring 2026 · Completed Creative Brief · AI Production Pipeline · v1.0 · March 2026*
