@@ -1,0 +1,77 @@
+# CAT-3: Local Service
+
+**Examples:** plumber, cleaning service, hair salon, repair shop, personal trainer, delivery.
+
+**Core logic:** Sell the result and trust. The viewer has a problem — the brand is the solution. The service worker is the hero, not the product. Anxiety relief is the emotional engine.
+
+---
+
+## Scene Priorities
+
+### S1 — Hook (0:00–0:05)
+**Priority:** The problem the viewer recognizes — broken pipe, messy apartment, broken device.
+
+**Hint:** Problem hook. Must be specific and visual. The viewer must say "that's me." Generic problem shots fail — the more specific the problem, the stronger the recognition. A flooded kitchen works. "A messy room" does not.
+
+---
+
+### S2 — Context (0:05–0:12)
+**Priority:** Service worker arrives or begins. Confident, professional, skilled.
+
+**Hint:** Show the worker's face — trust is human. Uniform or branding visible. The worker's body language communicates competence before a single word is spoken.
+
+---
+
+### S3 — Service in Action (0:12–0:20)
+**Priority:** Close-up of hands doing skilled work.
+
+**Hint:** Hands are the hero. Detail shots of competent work — a wrench turning, a surface being cleaned, a device being repaired. The specificity of the action is what builds trust.
+
+---
+
+### S4 — Result (0:20–0:26)
+**Priority:** The result and the client's reaction. Before/after if possible.
+
+**Hint:** 3 cuts — result detail / client reaction / wider context shot. The client's face reacting to the completed work is more persuasive than the work itself.
+
+---
+
+### S5 — Resolve (0:26–0:28)
+**Priority:** Worker and client — handshake, thumbs up, genuine human moment.
+
+**Hint:** Resolve is relational — two people, not a solo portrait. The transaction has become a relationship. This is what differentiates a trusted local service from a commodity.
+
+---
+
+## Default Parameters
+
+| Parameter | CAT-3 Default |
+|-----------|---------------|
+| `HOOK_TYPE` | Problem hook — specific and visual |
+| `NATURE_ELEMENT` | N/A — not relevant for local service |
+| `ENVIRONMENT` | Client's home, business, or street — real location |
+| `TALENT_DESCRIPTOR` | Service worker: confident, professional, 28–45. Client: relatable, real |
+| `TONE_KEYWORDS` | reassuring, expert, reliable, human, local |
+| `MUSIC_DIRECTION` | 80–95 BPM, steady rhythm, warm, no drama |
+| `VOICEOVER_STYLE` | Direct, confident, local — not corporate |
+| `PACING` | Medium — S1 quick, S3 deliberate, S5 held |
+
+---
+
+## Emotional Arc
+
+```
+Recognition — "that's my problem" (S1) → Relief — "help is coming" (S2) → Trust — "they know what they're doing" (S3) → Satisfaction — "it's fixed" (S4) → Confidence — "I'd call them again" (S5)
+```
+
+---
+
+## End Card Priority
+
+- Zone A (38%): Logo + phone number (phone number is primary CTA for local service)
+- Zone B (30%): "Call now" / "Book online" / service area
+- Zone C (32%): QR to booking page or Google Maps listing
+
+---
+
+*CAT-3: Local Service · part of the CTV Ad Generation Framework category preset system*
