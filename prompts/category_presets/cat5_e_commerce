@@ -1,0 +1,89 @@
+# CAT-5: e-Commerce (D2C / Online Retail / Marketplace)
+
+**Examples:** DTC apparel brand, online sneaker retailer, subscription beauty box, multi-SKU home goods store, DTC wellness brand.
+
+**Core logic:** The viewer already knows the category. The ad does not need to explain what the product is — it needs to answer: **why this brand, why now, why trust it.** The QR code is not optional — it is the conversion mechanism the entire ad is built toward.
+
+**What makes CAT-5 different from CAT-1 (Physical Product):**
+CAT-1 seduces with aesthetics — the viewer discovers the product for the first time. CAT-5 builds purchase confidence — the viewer already knows the category. Proof over beauty. Social trust over aspiration. S3 must function as a product page equivalent at 6-foot viewing distance, not a hero shot.
+
+---
+
+## Scene Priorities
+
+### S1 — Hook (0:00–0:05)
+**Priority:** Social proof hook — real customer moment or UGC-style opening.
+
+**Hint:** Alternatively: scarcity/value hook — price reveal or "limited" signal.
+
+**Never use texture hook** — too abstract for purchase-intent CTV. The viewer is in consideration mode, not discovery mode. Abstract texture hooks create curiosity gaps that delay purchase intent.
+
+---
+
+### S2 — Context (0:05–0:12)
+**Priority:** Product arriving, unboxing, or delivery moment. This is e-Commerce's "environment."
+
+**Hint:** Domestic real-life setting — home, kitchen, bedroom, front door delivery moment. Talent must look like the buyer, not a brand ambassador. The unboxing moment is the e-Commerce equivalent of the lifestyle context shot.
+
+---
+
+### S3 — Product + Proof (0:12–0:20)
+**Priority:** Product clearly legible on screen. One trust signal as on-screen super.
+
+**Hint:** Free returns / ships in 24h / 4.8★ rating / money-back guarantee — one signal only. Hold product shot 6–8 seconds. The viewer must be able to read it from across the room.
+
+S3 must function as a **product page equivalent** — the viewer must understand the product, trust it, and want it from 6 feet away in 8 seconds. If the brief includes social proof data (reviews, order volume, return policy), surface it here — not buried in S2.
+
+---
+
+### S4 — Purchase Journey (0:20–0:26)
+**Priority:** Purchase journey montage — product in use / satisfied face / easy checkout.
+
+**Hint:** Can include unboxing or delivery moment instead of lifestyle montage. The purchase journey is the e-Commerce emotional arc — show the path from want to owned.
+
+---
+
+### S5 — Resolve (0:26–0:28)
+**Priority:** Person with product — calm, satisfied. The post-purchase feeling.
+
+**Hint:** Relaxed, not euphoric. The arc ends with permission to act — not celebration. The viewer must feel that buying this was a good, easy, low-risk decision.
+
+---
+
+## Default Parameters
+
+| Parameter | CAT-5 Default |
+|-----------|---------------|
+| `HOOK_TYPE` | Social proof hook or scarcity/value hook — never texture hook |
+| `NATURE_ELEMENT` | N/A — not relevant for e-Commerce |
+| `ENVIRONMENT` | Domestic real-life: home, kitchen, bedroom, front door |
+| `TALENT_DESCRIPTOR` | Real-person aesthetic 22–40 — must look like the buyer, not a brand ambassador |
+| `KEY_FEATURE` | One proof point that removes purchase friction: free returns / 24h shipping / rating |
+| `TONE_KEYWORDS` | direct, confident, warm, trustworthy, no-nonsense |
+| `MUSIC_DIRECTION` | 85–100 BPM, modern pop-adjacent, upbeat but not aggressive, no competing lyrics |
+| `VOICEOVER_STYLE` | Peer-to-peer tone, neutral gender, warm and direct — never announcer, never infomercial |
+| `PACING` | Medium-fast. S1 quick hook 3–4s. S3 deliberate 6–8s. |
+
+---
+
+## Emotional Arc
+
+```
+Recognition (S1) → Consideration (S2) → Trust (S3) → Desire (S4) → Permission to act (S5)
+```
+
+---
+
+## End Card Priority
+
+QR code is the **primary zone** for e-Commerce — this is the only category where QR takes precedence over logo size.
+
+- Zone A (32%): QR code — must be large enough to scan from 6 feet
+- Zone B (38%): CTA headline + domain name as readable text + promo code
+- Zone C (30%): Logo
+
+**Promo code field strongly recommended** — it gives the viewer a reason to scan immediately rather than "maybe later."
+
+---
+
+*CAT-5: e-Commerce · part of the CTV Ad Generation Framework category preset system*
