@@ -1,0 +1,77 @@
+# CAT-2: Food & Beverage
+
+**Examples:** restaurant, café, food delivery, specialty food brand, local bakery, brewery.
+
+**Core logic:** Sell the sensory experience and the ritual. The viewer wants to taste, smell, and feel — not just see. Pacing is slower than Physical Product. The product is the experience, not the object.
+
+---
+
+## Scene Priorities
+
+### S1 — Hook (0:00–0:05)
+**Priority:** Macro of raw ingredient or finished product. Steam, texture, pour.
+
+**Hint:** Texture hook or process hook. Sound design is critical at the cut — the sensory impact begins here. A coffee bean macro, a bread crust close-up, a liquid pour in slow motion.
+
+---
+
+### S2 — Context (0:05–0:12)
+**Priority:** Preparation process or the person making it. Hands, craft, skill.
+
+**Hint:** For delivery brands — show preparation at origin, then transition to delivery. The craftsmanship justifies the price and builds trust before the product is revealed.
+
+---
+
+### S3 — Hero Product Shot (0:12–0:20)
+**Priority:** Hero shot of finished product. Slow motion pour or reveal.
+
+**Hint:** Mandatory slow motion for liquids — this is non-negotiable for beverages. Natural surface backgrounds only — never studio void. The product must exist in a world, not float in abstraction.
+
+---
+
+### S4 — Human Moment (0:20–0:26)
+**Priority:** First sip, first bite, sharing. Eyes close, warmth.
+
+**Hint:** Slow pacing — 2s+ per shot. Quiet warmth — not energy. This is not a lifestyle montage. It is a single human moment of pleasure. The viewer should feel the sensory satisfaction vicariously.
+
+---
+
+### S5 — Resolve (0:26–0:28)
+**Priority:** Hands around the product or face with eyes closing in satisfaction.
+
+**Hint:** Prefer hands-on-product for intimacy. The tactile connection between person and product signals comfort and routine — this is what converts a viewer into a repeat customer.
+
+---
+
+## Default Parameters
+
+| Parameter | CAT-2 Default |
+|-----------|---------------|
+| `HOOK_TYPE` | Texture or process hook |
+| `NATURE_ELEMENT` | Raw ingredient, steam, liquid texture |
+| `ENVIRONMENT` | Kitchen, café, natural outdoor setting — never corporate |
+| `TALENT_DESCRIPTOR` | Artisan hands, warm expression, 25–45 |
+| `TONE_KEYWORDS` | warm, sensory, craft, ritual, comforting |
+| `MUSIC_DIRECTION` | 70–90 BPM, acoustic, warm midrange, unhurried |
+| `VOICEOVER_STYLE` | Warm, unhurried, storytelling cadence |
+| `PACING` | Slow throughout — S3 and S4 especially deliberate |
+
+---
+
+## Emotional Arc
+
+```
+Sensory curiosity (S1) → Craft trust (S2) → Desire (S3) → Pleasure (S4) → Comfort (S5)
+```
+
+---
+
+## End Card Priority
+
+- Zone A (38%): Logo
+- Zone B (30%): CTA — "Order now" / "Find us at" / "Scan to view menu"
+- Zone C (32%): QR to menu, delivery link, or location
+
+---
+
+*CAT-2: Food & Beverage · part of the CTV Ad Generation Framework category preset system*
