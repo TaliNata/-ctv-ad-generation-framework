@@ -1,0 +1,77 @@
+# CAT-4: Professional Services
+
+**Examples:** notary, law firm, medical clinic, accountant, financial advisor, insurance.
+
+**Core logic:** Sell confidence and peace of mind. There is no physical product. There is no lifestyle montage. Authority + care + positive outcome. Credibility is everything — a single visual that feels corporate or cold loses the viewer.
+
+---
+
+## Scene Priorities
+
+### S1 — Hook (0:00–0:05)
+**Priority:** Emotional weight — worry, uncertainty, a difficult moment.
+
+**Hint:** Emotion hook or statement hook. Show the feeling, not the problem. A person staring at a document they don't understand. A face carrying stress. The viewer recognizes the emotional state before they recognize the specific situation.
+
+---
+
+### S2 — Context (0:05–0:12)
+**Priority:** The expert in their environment. Calm, warm, approachable.
+
+**Hint:** Clean professional space — not sterile, not corporate. The expert's face must feel human. If the expert looks like a stock-photo professional, the credibility is lost.
+
+---
+
+### S3 — Consultation (0:12–0:20)
+**Priority:** Expert and client together. Help being given.
+
+**Hint:** Two-person framing. Expert listening, client feeling heard. The moment of being understood is the core conversion trigger for professional services — not the credential, not the outcome yet.
+
+---
+
+### S4 — Outcome (0:20–0:26)
+**Priority:** Positive outcome. Signature, handshake, relieved expression.
+
+**Hint:** 2–3 calm shots. No fast cuts. The outcome feels settled and final. The energy is resolution, not celebration.
+
+---
+
+### S5 — Resolve (0:26–0:28)
+**Priority:** Client alone — calm, confident, resolved. Looking forward.
+
+**Hint:** Solo portrait. Calm expression. The weight is gone. This is the post-purchase emotional state the viewer is buying — not a service, but this feeling.
+
+---
+
+## Default Parameters
+
+| Parameter | CAT-4 Default |
+|-----------|---------------|
+| `HOOK_TYPE` | Emotion hook or statement hook |
+| `NATURE_ELEMENT` | N/A — not relevant for professional services |
+| `ENVIRONMENT` | Clean professional interior — warm, not corporate |
+| `TALENT_DESCRIPTOR` | Expert: 35–55, authoritative but approachable. Client: 28–50, relatable |
+| `TONE_KEYWORDS` | authoritative, caring, trustworthy, calm, resolved |
+| `MUSIC_DIRECTION` | 60–80 BPM, minimal, piano or strings, no percussion |
+| `VOICEOVER_STYLE` | Measured, authoritative, warm — the voice of a trusted advisor |
+| `PACING` | Slow and deliberate throughout — no fast cuts |
+
+---
+
+## Emotional Arc
+
+```
+Anxiety (S1) → Recognition — "this person understands" (S2) → Trust (S3) → Relief (S4) → Confidence (S5)
+```
+
+---
+
+## End Card Priority
+
+- Zone A (38%): Logo + credential or certification badge
+- Zone B (30%): CTA — "Book a consultation" / "Call today" / "Free first meeting"
+- Zone C (32%): QR to booking page or consultation form
+
+---
+
+*CAT-4: Professional Services · part of the CTV Ad Generation Framework category preset system*
