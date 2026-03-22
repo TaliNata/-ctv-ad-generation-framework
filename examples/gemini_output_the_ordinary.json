@@ -1,0 +1,100 @@
+{
+  "category_resolution": {
+    "lead": "CAT-5",
+    "secondary": "CAT-1",
+    "reason": "Primary objective is DTC purchase via QR scan. CAT-5 controls S1 hook type, S5 closing structure, and end card QR priority. CAT-1 contributes S2/S3 product intimacy and hero shot style."
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "timecode": "0:00-0:05",
+      "name": "Macro Texture Hook",
+      "nano_banana_prompt": "[T1] A single amber serum droplet suspended mid-air beneath a glass dropper, surface tension visible. [T2] Clean white surface, no props, clinical environment. [T3] 100mm macro lens, static composition, sharp focus on liquid surface tension. [T4] Soft directional daylight, 5500K, precise hard shadow, no warmth filter. [T5] 4K resolution, photorealistic, clinical product photography.",
+      "nano_banana_negative": "low resolution, watermark, text overlay, CGI artifacts, audio instructions, music references, sound design notes, voiceover cues, blurry, overexposed, underexposed, duplicate subjects, distorted proportions, warm orange tones, falling droplet, motion implied, lifestyle props",
+      "veo3_prompt": "[T1] A single amber serum droplet falls slowly from a glass dropper and impacts a clean white surface, spreading in slow motion. [T2] Stark white clinical environment, no props. [T3] 100mm macro lens, camera holds static at 0.1m distance from surface. [T4] Soft directional daylight, 5500K, precise hard shadow. [T5] 4K resolution, extreme slow motion, photorealistic.",
+      "veo3_negative": "low resolution, watermark, text overlay, CGI artifacts, audio instructions, music references, sound design notes, voiceover cues, blurry, overexposed, underexposed, duplicate subjects, distorted proportions, warm tones, fast movement, lifestyle environment, human face",
+      "seed_id": null,
+      "iteration": 1
+    },
+    {
+      "scene_id": 2,
+      "timecode": "0:05-0:12",
+      "name": "Application — Real Skin",
+      "nano_banana_prompt": "[T1] A person in their early 30s with visible natural skin texture, pores, and no makeup, fingertips resting on their cheek with clear serum visible on skin. [T2] Minimal white bathroom, no decorative props. [T3] 50mm lens, medium close-up, eye-level. [T4] Natural morning window light, 5000K, soft neutral shadows. [T5] 4K resolution, cinematic, photorealistic skin detail.",
+      "nano_banana_negative": "low resolution, watermark, text overlay, CGI artifacts, audio instructions, music references, sound design notes, voiceover cues, blurry, overexposed, underexposed, duplicate subjects, distorted proportions, deformed hands, plastic skin, heavy makeup, airbrushed skin, stock-photo expression, warm lifestyle lighting, applying serum motion",
+      "veo3_prompt": "[T1] A person in their early 30s with visible natural skin texture and no makeup gently presses serum into their cheek with fingertips, skin absorbing the product. [T2] Minimal white bathroom, no decorative props. [T3] 50mm lens, camera moves from 0.8m to 0.6m distance from subject. [T4] Natural morning window light, 5000K, soft neutral shadows. [T5] 4K resolution, 24fps, cinematic photorealistic.",
+      "veo3_negative": "low resolution, watermark, text overlay, CGI artifacts, audio instructions, music references, sound design notes, voiceover cues, blurry, overexposed, underexposed, duplicate subjects, distorted proportions, deformed hands, extra fingers, plastic skin, heavy makeup, airbrushed skin, stock-photo expression, fast movement, warm filter",
+      "seed_id": null,
+      "iteration": 1
+    },
+    {
+      "scene_id": 3,
+      "timecode": "0:12-0:20",
+      "name": "Product Hero Hold",
+      "nano_banana_prompt": "[T1] A clear amber glass dropper bottle standing upright on a flat white surface, no label text visible. [T2] Stark white minimalist environment, no props, no texture. [T3] 85mm lens, centered hero framing, eye-level. [T4] Clean directional daylight, 5500K, precise hard shadow, no warmth filter. [T5] 4K resolution, clinical product photography, extremely crisp.",
+      "nano_banana_negative": "low resolution, watermark, text overlay, CGI artifacts, audio instructions, music references, sound design notes, voiceover cues, blurry, overexposed, underexposed, duplicate subjects, distorted proportions, wrong color, distorted bottle shape, hallucinated text on product, hallucinated label, warm amber glow, lifestyle props, soft lighting",
+      "veo3_prompt": "[T1] A clear amber glass dropper bottle stands perfectly still on a white surface while light shifts slowly across its surface. [T2] Stark white minimalist environment, no props. [T3] 85mm lens, camera moves from 0.7m to 0.5m distance from subject. [T4] Clean directional daylight, 5500K, precise hard shadow. [T5] 4K resolution, 24fps, clinical product photography.",
+      "veo3_negative": "low resolution, watermark, text overlay, CGI artifacts, audio instructions, music references, sound design notes, voiceover cues, blurry, overexposed, underexposed, duplicate subjects, distorted proportions, wrong color, distorted bottle shape, hallucinated text on product, fast movement, warm glow, wobbling bottle",
+      "seed_id": null,
+      "iteration": 1
+    },
+    {
+      "scene_id": 4,
+      "timecode": "0:20-0:26",
+      "name": "Post-Purchase Moment",
+      "nano_banana_prompt": "[T1] A person in their 30s with naturally healthy skin standing near a window, the glass dropper bottle placed on the surface beside them, both visible in frame. [T2] Clean neutral home interior, white walls, no decoration. [T3] 50mm lens, medium shot. [T4] Soft neutral daylight, 5500K, no warm filter. [T5] 4K resolution, cinematic, photorealistic.",
+      "nano_banana_negative": "low resolution, watermark, text overlay, CGI artifacts, audio instructions, music references, sound design notes, voiceover cues, blurry, overexposed, underexposed, duplicate subjects, distorted proportions, missing product, deformed hands, plastic skin, stock-photo expression, airbrushed skin, warm lifestyle tones, product absent",
+      "veo3_prompt": "[T1] A person in their 30s with naturally healthy skin looks toward the window light and touches their face gently, the glass dropper bottle visible on the surface beside them. [T2] Clean neutral home interior, white walls, no decoration. [T3] 50mm lens, camera moves from 1.2m to 1.0m distance from subject. [T4] Soft neutral daylight, 5500K, no warm filter. [T5] 4K resolution, 24fps, cinematic photorealistic.",
+      "veo3_negative": "low resolution, watermark, text overlay, CGI artifacts, audio instructions, music references, sound design notes, voiceover cues, blurry, overexposed, underexposed, duplicate subjects, distorted proportions, missing product, deformed hands, plastic skin, stock-photo expression, airbrushed skin, fast cuts, warm lifestyle tones",
+      "seed_id": null,
+      "iteration": 1
+    },
+    {
+      "scene_id": 5,
+      "timecode": "0:26-0:28",
+      "name": "Resolve",
+      "nano_banana_prompt": "[T1] A calm, confident person in their 30s with natural unretouched skin looking directly at the viewer, the amber glass bottle held loosely at chest height. [T2] Plain white wall, no decoration. [T3] 85mm lens, close-up portrait, eye-level. [T4] Flat frontal natural light, 5500K, no warmth grade. [T5] 4K resolution, photorealistic, honest skin detail.",
+      "nano_banana_negative": "low resolution, watermark, text overlay, CGI artifacts, audio instructions, music references, sound design notes, voiceover cues, blurry, overexposed, underexposed, duplicate subjects, distorted proportions, missing product, plastic skin, stock-photo expression, warm filter, lifestyle props, forced smile",
+      "veo3_prompt": "[T1] A calm, confident person in their 30s with natural unretouched skin looks directly at the viewer and gives a small, unhurried nod, the amber glass bottle held loosely at chest height. [T2] Plain white wall, no decoration. [T3] 85mm lens, camera moves from 1.0m to 0.8m distance from subject. [T4] Flat frontal natural light, 5500K, no warmth grade. [T5] 4K resolution, 24fps, photorealistic.",
+      "veo3_negative": "low resolution, watermark, text overlay, CGI artifacts, audio instructions, music references, sound design notes, voiceover cues, blurry, overexposed, underexposed, duplicate subjects, distorted proportions, missing product, plastic skin, stock-photo expression, warm filter, fast movement, talking",
+      "seed_id": null,
+      "iteration": 1
+    }
+  ],
+  "end_card_nano_banana": {
+    "prompt": "[T1] Flat black text 'theordinary.com' and 'SPRING20' centered on a pure white surface. [T2] Stark white background, no texture, no gradient. [T3] 50mm lens, top-down flat lay. [T4] Flat even studio light, no shadows, 6500K. [T5] 4K resolution, graphic-ready background, maximum contrast.",
+    "negative": "low resolution, watermark, CGI artifacts, blurry, gradient background, texture behind text zone, warm tones, shadows, vignette, any decorative elements, busy background"
+  },
+  "audio": {
+    "lyria_prompt": "50-65 BPM, minimal ambient, single piano motif, no strings, no percussion. Clinical and precise. Nils Frahm Spaces energy — silence is part of the composition. [intro] 0:00-0:05 sparse, single felt piano key, no drums, near-silence between notes. [verse] 0:05-0:12 50% density, piano melody develops, clear midrange space for VO, no competing elements. [pre-chorus] 0:12-0:20 60% density, rising pad built from sustained piano harmonics only — no new instruments. [chorus] 0:20-0:26 100% density achieved through harmonic fullness and piano intensity — no percussion, no drums, no bass drop. [outro] 0:26-0:28 30% density, single sustained piano note with long reverb tail. [end] 0:28-0:30 15-20% only — near silence, faint piano resonance for QR scan.",
+    "chirp_voice": "en-US-Chirp-HD-F",
+    "chirp_settings": {
+      "speaking_rate": 1.0,
+      "pitch": 0.0
+    },
+    "vo_script": [
+      {
+        "timecode": "0:07",
+        "line": "Ascorbyl Glucoside. Stable Vitamin C. No fragrance. No compromise.",
+        "delivery": "Flat, clinical, direct. Each clause separated by a beat. No warmth performance — let the ingredients speak."
+      },
+      {
+        "timecode": "0:13",
+        "line": "Twelve percent. Dermatologist-tested. Visible results in fourteen days.",
+        "delivery": "Precise and authoritative. Slight pause between each claim. speaking_rate: 0.95",
+        "s3_note": "speaking_rate 0.95 — slightly slower for S3 core benefit line adds conviction"
+      },
+      {
+        "timecode": "0:17",
+        "line": "Honest skincare. Honest price.",
+        "delivery": "Steady, confident. The Ordinary's core brand promise — no drama."
+      },
+      {
+        "timecode": "0:27",
+        "line": "Just science.",
+        "delivery": "OPTIONAL. Near-whisper. Trailing cadence. Final.",
+        "optional": true
+      }
+    ]
+  }
+}
